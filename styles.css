@@ -62,17 +62,20 @@
 }
 
 .details-container {
-	padding: 12px;
 }
 
 .details-title {
 	font-family: "Outfit", sans-serif;
 	text-align: center;
 	font-size: 20px;
+
+	margin: 12px;
 }
 
 .details-description {
 	font-family: "Outfit", sans-serif;
 	font-size: 15px;
 	text-align: center;
+
+	margin: 10px;
 }
